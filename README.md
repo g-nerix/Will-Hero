@@ -1,5 +1,5 @@
 # The-Will-Hero-Game-
- ##-Details:
+ ## Details:
   Created by: [Shashank Shekhar Singh (2020119)](https://github.com/g-nerix) and [Vasu Khanna (2020483)]()
 
   This is a clone of the video game, [Will Hero](https://will-hero.fandom.com/wiki/Will_Hero_Wiki), originally developed by ZPLAY Games.
@@ -8,17 +8,17 @@
 
   Uses Java and JavaFx.
   
-##Features
+## Features
 // Add Here
 
-##Implementation
+## Implementation
 // Add Here
 
-##Design Patterns
+## Design Patterns
 // Add Here
 
-##Screenshots from the game
+## Screenshots from the game
 // Add Here
 
-##How To play
+## How To play
 // Add Here
