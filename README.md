@@ -1,4 +1,4 @@
-# The-Will-Hero-Game-
+# Will-Hero
  ## Details:
   Created by: [Shashank Shekhar Singh (2020119)](https://github.com/g-nerix) and [Vasu Khanna (2020483)](https://github.com/vasukhanna)
 
