@@ -1,53 +1,53 @@
-# Classes:
+Classes:
 	
-##	- game (main class)
+	- game (main class)
 
 	
-##	- gameObject (abstract class) 
-###		- Character (Interface) // we don't need any object of character
+	- gameObject (abstract class) 
+		- Character (Interface) // we don't need any object of character
 			: Appearance 
   			: jump rate
 		
-###	-  mainPlayer (implements Character)
+	-  mainPlayer (implements Character)
   		: Weapon unlocked
 	
   
-###	- Obstacle (abstract class) // we don't need any object of obstacle
+	- Obstacle (abstract class) // we don't need any object of obstacle
   		: Coordinate (obj)
 		
-####		- abstract Chest
+		- abstract Chest
    			: reward()
 	 		- Coin Chest
 				: Add coin()
 	 		- Weapon Chest
 				: Add Weapon()
 
-####		- abstract Orcs (villan) {implements Character}
+		- abstract Orcs (villan) {implements Character}
    			- Boss (more powerful one)
 	 		- green
 	 		- red
 
-####		- Island
+		- Island
 			: count {122 locations}
 			: length {maybe}
 
-##	- User
+	- User
 		: gameState
 		: Username
 		: highScore / Coins collected
 
-##	- Game state
+	- Game state
 		: User (obj)
 		: mainPlayer (obj)
 		: Terrain (obj)
 		
-##	- Coordinates
+	- Coordinates
 		: float x,y coordinates
 
-##	- Terrain
+	- Terrain
 		// arrangement of different game object
 		
-##	- Menu
+	- Menu
 		: load previous game()
 		: new game()
 		: Pause()
