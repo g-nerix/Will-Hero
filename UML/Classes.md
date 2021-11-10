@@ -1,12 +1,12 @@
 # Classes:
 	
-## - game (main class)
+##	- game (main class)
 
 	
-## - gameObject (abstract class) 
-### - Character (Interface) // we don't need any object of character
-  : Appearance 
-  : jump rate
+##	- gameObject (abstract class) 
+###		- Character (Interface) // we don't need any object of character
+			: Appearance 
+  			: jump rate
 		
 ### -  mainPlayer (implements Character)
   : Weapon unlocked
