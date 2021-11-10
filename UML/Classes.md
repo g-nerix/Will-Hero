@@ -8,27 +8,28 @@
 			: Appearance 
   			: jump rate
 		
-### -  mainPlayer (implements Character)
-  : Weapon unlocked
+###	-  mainPlayer (implements Character)
+  		: Weapon unlocked
 	
   
-### - Obstacle (abstract class) // we don't need any object of obstacle
-  : Coordinate (obj)
-#### - abstract Chest
-   : reward()
-	 - Coin Chest
-			: Add coin()
-	 - Weapon Chest
-			: Add Weapon()
+###	- Obstacle (abstract class) // we don't need any object of obstacle
+  		: Coordinate (obj)
+		
+####		- abstract Chest
+   			: reward()
+	 		- Coin Chest
+				: Add coin()
+	 		- Weapon Chest
+				: Add Weapon()
 
-#### - abstract Orcs (villan) {implements Character}
-   - Boss (more powerful one)
-	 - green
-	 - red
+####		- abstract Orcs (villan) {implements Character}
+   			- Boss (more powerful one)
+	 		- green
+	 		- red
 
 ####		- Island
-				: count {122 locations}
-				: length {maybe}
+			: count {122 locations}
+			: length {maybe}
 
 ##	- User
 		: gameState
