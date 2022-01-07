@@ -18,24 +18,32 @@
     -Boss Orc
     -TNT
   
-### 2. Save game, Pause game and Restart game functionalities
+### 2. Save game
+### 3. Pause game 
+### 4. Restart game 
+### 5. Revive Player
 ### 3. Decent animations
 
-## Implementation
-// Add Here
-
 ## Design Patterns
-// Add Here
+  - Singleton Design Pattern for game class
+  - Iterator Design Pattern for all the GameObject class. 
 
 ## Screenshots from the game
 ![Alt Image text](/Screenshot/enterName.png?raw=true "Enter Name")
+
 ![Alt Image text](/Screenshot/MainMenu.png?raw=true "Main Menu")
+
 ![Alt Image text](/Screenshot/game1.png?raw=true "screenshot 1")
+
 ![Alt Image text](/Screenshot/game2.png?raw=true "screenshot 2")
+
 ![Alt Image text](/Screenshot/PauseMenu.png?raw=true "Pause Menu")
+
 ![Alt Image text](/Screenshot/Revive.png?raw=true "Revive option")
+
 ![Alt Image text](/Screenshot/BossFight.png?raw=true "Boss Fight")
+
 ![Alt Image text](/Screenshot/Victory.png?raw=true "Victory")
 
 ## How To play
-// Add Here
+
