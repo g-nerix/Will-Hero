@@ -11,15 +11,15 @@
   Uses Java and JavaFx.
   
 ## Features
-### Various obstacles
+*### Various obstacles
     -Island
     -Green Orc
     -Red Orc
     -Boss Orc
     -TNT
   
-### Save game, Pause game and Restart game functionalities
-### Decent animations
+*### Save game, Pause game and Restart game functionalities
+*### Decent animations
 
 ## Implementation
 // Add Here
