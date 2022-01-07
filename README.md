@@ -10,18 +10,18 @@
   Uses Java and JavaFx.
   
 ## Features
-### 1. Various obstacles
-    -Island
-    -Green Orc
-    -Red Orc
-    -Boss Orc
-    -TNT
+ - Various obstacles
+    - Island
+    - Green Orc
+    - Red Orc
+    - Boss Orc
+    - TNT
   
-### 2. Save game
-### 3. Pause game 
-### 4. Restart game 
-### 5. Revive Player
-### 6. Decent animations
+ - Save game
+ - Pause game 
+ - Restart game 
+ - Revive Player
+ - Decent animations
 
 ## Design Patterns
   - Singleton Design Pattern for game class
