@@ -28,7 +28,14 @@
 // Add Here
 
 ## Screenshots from the game
+![Alt Image text](/Screenshot/enterName.png?raw=true "Enter Name")
 ![Alt Image text](/Screenshot/MainMenu.png?raw=true "Main Menu")
+![Alt Image text](/Screenshot/game1.png?raw=true "screenshot 1")
+![Alt Image text](/Screenshot/game2.png?raw=true "screenshot 2")
+![Alt Image text](/Screenshot/PauseMenu.png?raw=true "Pause Menu")
+![Alt Image text](/Screenshot/Revive.png?raw=true "Revive option")
+![Alt Image text](/Screenshot/BossFight.png?raw=true "Boss Fight")
+![Alt Image text](/Screenshot/Victory.png?raw=true "Victory")
 
 ## How To play
 // Add Here
