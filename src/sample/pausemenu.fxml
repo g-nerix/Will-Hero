@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="1200.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="mainmenu">
+   <children>
+      <ImageView fitHeight="1200.0" fitWidth="1200.0" layoutX="-19.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Images/Background.jpeg" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="setting" fitHeight="150.0" fitWidth="200.0" layoutX="219.0" layoutY="340.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Images/Setting.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="resume" fitHeight="150.0" fitWidth="200.0" layoutX="509.0" layoutY="292.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Images/RESUME.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="back" fitHeight="150.0" fitWidth="200.0" layoutX="778.0" layoutY="350.0" onMouseClicked="#backtoMM" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Images/Exit_1png.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
