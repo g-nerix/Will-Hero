@@ -28,7 +28,7 @@
 // Add Here
 
 ## Screenshots from the game
-![Alt Image text](/Screenshit/MainMenu.png?raw=true "Main Menu")
+![Alt Image text](/Screenshot/MainMenu.png?raw=true "Main Menu")
 
 ## How To play
 // Add Here
