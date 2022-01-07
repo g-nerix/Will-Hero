@@ -1,6 +1,5 @@
 # Will-Hero
  ## Details:
-  Group_97
   
   Created by: [Shashank Shekhar Singh (2020119)](https://github.com/g-nerix) and [Vasu Khanna (2020483)](https://github.com/vasukhanna)
 
@@ -46,4 +45,6 @@
 ![Alt Image text](/Screenshot/Victory.png?raw=true "Victory")
 
 ## How To play
+don't play 
+
 
