@@ -21,7 +21,7 @@
 ### 3. Pause game 
 ### 4. Restart game 
 ### 5. Revive Player
-### 3. Decent animations
+### 6. Decent animations
 
 ## Design Patterns
   - Singleton Design Pattern for game class
